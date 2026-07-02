@@ -73,7 +73,6 @@ The application provides a clean and intuitive shopping experience, allowing use
 ## 🚀 Future Improvements
 
 - 🔐 Firebase Authentication
-- ❤️ Wishlist
 - 💳 Online Payments
 - 📦 Order History
 - 🌙 Dark Mode
