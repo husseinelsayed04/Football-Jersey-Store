@@ -47,7 +47,7 @@ The application provides a clean and intuitive shopping experience, allowing use
 <td><sub>Login</sub></td>
 <td><sub>Welcome</sub></td>
 <td><sub>Home</sub></td>
-<td><sub>Categories</sub></td>
+<td><sub>Product List</sub></td>
 <td><sub>Product Details</sub></td>
 </tr>
 
