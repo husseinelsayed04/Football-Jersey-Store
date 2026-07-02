@@ -25,7 +25,7 @@ The application provides a clean and intuitive shopping experience, allowing use
 - Java
 - XML
 - Android Studio
-- - ConstraintLayout
+-  ConstraintLayout
 - CardView
 - Material Components
 - Intent Navigation
