@@ -25,31 +25,31 @@ A modern Android e-commerce application for football jersey shopping, built with
 - Java
 - XML
 - Android Studio
+- RecyclerView
 - ConstraintLayout
 - CardView
 - Material Components
-- RecyclerView
-- Intents
+- Intent Navigation
 
 ---
 
 ## 📱 Screenshots
 
-| Login | Welcome | Home |
-|:-----:|:-------:|:----:|
-| <img src="https://github.com/user-attachments/assets/1927f580-016a-42e5-915f-eedaefb816b5" width="220"> | <img src="https://github.com/user-attachments/assets/097e61b5-8695-4023-8086-40bf7007164f" width="220"> | <img src="https://github.com/user-attachments/assets/e0e9d98c-f39b-4de3-9316-335928ab572c" width="220"> |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1927f580-016a-42e5-915f-eedaefb816b5" width="150"/>
+  <img src="https://github.com/user-attachments/assets/097e61b5-8695-4023-8086-40bf7007164f" width="150"/>
+  <img src="https://github.com/user-attachments/assets/e0e9d98c-f39b-4de3-9316-335928ab572c" width="150"/>
+  <img src="https://github.com/user-attachments/assets/fc228228-76e6-4c3a-a03a-7efcafdec913" width="150"/>
+  <img src="https://github.com/user-attachments/assets/32967679-ffd8-4149-9c00-b961688952fc" width="150"/>
+</p>
 
-| Categories | Jersey Details | Customization |
-|:----------:|:--------------:|:-------------:|
-| <img src="https://github.com/user-attachments/assets/fc228228-76e6-4c3a-a03a-7efcafdec913" width="220"> | <img src="https://github.com/user-attachments/assets/32967679-ffd8-4149-9c00-b961688952fc" width="220"> | <img src="https://github.com/user-attachments/assets/b65418a2-2509-43ce-b4f0-c2a1e2aba424" width="220"> |
-
-| Cart | Checkout | Order Summary |
-|:----:|:--------:|:-------------:|
-| <img src="https://github.com/user-attachments/assets/6b6d9297-1730-44d1-8206-48dd5c5e9a32" width="220"> | <img src="https://github.com/user-attachments/assets/ae170b32-3c40-4bef-be77-0260f35326ab" width="220"> | <img src="https://github.com/user-attachments/assets/65b28b42-e4b9-4ba2-b83d-f6f894f4c96b" width="220"> |
-
-| Order Confirmation |
-|:------------------:|
-| <img src="https://github.com/user-attachments/assets/586ea525-c739-4700-8d49-9b7ec884c1d4" width="220"> |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b65418a2-2509-43ce-b4f0-c2a1e2aba424" width="150"/>
+  <img src="https://github.com/user-attachments/assets/6b6d9297-1730-44d1-8206-48dd5c5e9a32" width="150"/>
+  <img src="https://github.com/user-attachments/assets/ae170b32-3c40-4bef-be77-0260f35326ab" width="150"/>
+  <img src="https://github.com/user-attachments/assets/65b28b42-e4b9-4ba2-b83d-f6f894f4c96b" width="150"/>
+  <img src="https://github.com/user-attachments/assets/586ea525-c739-4700-8d49-9b7ec884c1d4" width="150"/>
+</p>
 
 ---
 
