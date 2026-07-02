@@ -35,21 +35,20 @@ A modern Android e-commerce application for football jersey shopping, built with
 
 ## 📱 Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1927f580-016a-42e5-915f-eedaefb816b5" width="150"/>
-  <img src="https://github.com/user-attachments/assets/097e61b5-8695-4023-8086-40bf7007164f" width="150"/>
-  <img src="https://github.com/user-attachments/assets/e0e9d98c-f39b-4de3-9316-335928ab572c" width="150"/>
-  <img src="https://github.com/user-attachments/assets/fc228228-76e6-4c3a-a03a-7efcafdec913" width="150"/>
-  <img src="https://github.com/user-attachments/assets/32967679-ffd8-4149-9c00-b961688952fc" width="150"/>
-</p>
+<img width="450" height="850" alt="Screenshot 2026-05-04 165311" src="https://github.com/user-attachments/assets/83bd6323-e555-4bc9-9a45-aee669265b1f" />
+<img width="450" height="850" alt="Screenshot 2026-07-02 160142" src="https://github.com/user-attachments/assets/fbbd5ad8-30f6-4b6f-af5a-84bed9f80475" />
+<img width="450" height="850" alt="Screenshot 2026-05-04 165343" src="https://github.com/user-attachments/assets/3d31bebd-c447-49d5-8b15-beb2d36e3a73" />
+<img width="450" height="850" alt="Screenshot 2026-05-04 165416" src="https://github.com/user-attachments/assets/3a14b277-6438-444d-9155-c320f7c52310" />
+<img width="450" height="850" alt="Screenshot 2026-05-04 165452" src="https://github.com/user-attachments/assets/b51b6725-1b55-4394-9aa5-6f2927c132c1" />
+<img width="450" height="850" alt="Screenshot 2026-05-04 165504" src="https://github.com/user-attachments/assets/12eb681b-44c8-4a61-8b34-328ba33e360f" />
+<img width="450" height="850" alt="Screenshot 2026-05-04 165523" src="https://github.com/user-attachments/assets/7b3d44f4-c10e-4930-8851-43a26e64ebdb" />
+<img width="450" height="850" alt="Screenshot 2026-05-04 165602" src="https://github.com/user-attachments/assets/eadca816-bc5c-4db6-a2e4-bde0411aaff4" />
+<img width="450" height="850" alt="Screenshot 2026-05-04 165616" src="https://github.com/user-attachments/assets/5553fcca-084e-43fc-8078-20f9677e2e0d" />
+<img width="450" height="850" alt="Screenshot 2026-05-04 165703" src="https://github.com/user-attachments/assets/46de30d0-d6ae-4985-9f52-8bced9234ea7" />
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b65418a2-2509-43ce-b4f0-c2a1e2aba424" width="150"/>
-  <img src="https://github.com/user-attachments/assets/6b6d9297-1730-44d1-8206-48dd5c5e9a32" width="150"/>
-  <img src="https://github.com/user-attachments/assets/ae170b32-3c40-4bef-be77-0260f35326ab" width="150"/>
-  <img src="https://github.com/user-attachments/assets/65b28b42-e4b9-4ba2-b83d-f6f894f4c96b" width="150"/>
-  <img src="https://github.com/user-attachments/assets/586ea525-c739-4700-8d49-9b7ec884c1d4" width="150"/>
-</p>
+
+
+
 
 ---
 
